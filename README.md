@@ -20,7 +20,8 @@ price from either 2017 or 2018.
 A sample of the updated code is below.
 
 
-"C:\Users\tgeis\OneDrive\Desktop\Class Folder\Stock Analysis\code image.txt"
+
+
 
 
   * In the "Kickstarter" worksheet, a new column labeled "Years" was added.
