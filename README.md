@@ -19,6 +19,10 @@ price from either 2017 or 2018.
 
 A sample of the updated code is below.
 
+
+"C:\Users\tgeis\OneDrive\Desktop\Class Folder\Stock Analysis\code image.txt"
+
+
   * In the "Kickstarter" worksheet, a new column labeled "Years" was added.
   * Using the Year() function, the year was extracted from the "Date Created Conversion Column."
   * A new pivot table based on the Kickstarter data was placed in the new worksheet, "Theater Outcomes by Launch Date."
