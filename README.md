@@ -8,16 +8,16 @@ if his parents should diversify their portfolio from the original investment in 
 
 ### Purpose
 The purpose of this project is to use refactored code to determine if it provides more efficient results than the original code developed
-when the first analysis.
+with the first analysis.
 
 The data used in this analysis will include the stock ticker symbol, total daily volume and the stock return based on the starting and ending
 price from either 2017 or 2018.
 
 ## Results
 
-### Analysis of Outcomes Based on Launch Date
+### Updated Code
 
-To complete the analysis of Outcomes Based on Launch Date, the following steps were performed:
+A sample of the updated code is below.
 
   * In the "Kickstarter" worksheet, a new column labeled "Years" was added.
   * Using the Year() function, the year was extracted from the "Date Created Conversion Column."
