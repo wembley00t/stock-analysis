@@ -18,7 +18,6 @@ price from either 2017 or 2018.
 ### Updated Code
 
 A sample of the code updated with this project is below.
-
 '''
   
     '1a) Create a ticker Index
@@ -58,16 +57,14 @@ A sample of the code updated with this project is below.
          If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1).Value <> tickers(tickerIndex) Then
             tickerEndingPrices(tickerIndex) = Cells(i, 6).Value
             
-         End If
-            
+         End If           
 
             '3d Increase the tickerIndex.
             If Cells(i, 1).Value = tickers(tickerIndex) And Cells(i + 1, 1).Value <> tickers(tickerIndex) Then
             tickerIndex = tickerIndex + 1
             
-            End If
-            
-            
+            End If            
+          
         'End If
     
     Next i
@@ -84,9 +81,6 @@ A sample of the code updated with this project is below.
     
     
     
-
-![image](https://user-images.githubusercontent.com/100876517/161453732-f1ab8c06-136e-430d-b564-ebb8905c7bcf.png)
-
 
 
 
