@@ -19,7 +19,7 @@ price from either 2017 or 2018.
 
 A sample of the code updated with this project is below.
 
-'''vba
+'''
   
     '1a) Create a ticker Index
     
@@ -80,8 +80,8 @@ A sample of the code updated with this project is below.
         Cells(4 + i, 2).Value = tickerVolumes(i)
         Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1       
         
-    Next i
-    '''
+    Next i '''
+    
     
     
 
