@@ -17,9 +17,11 @@ price from either 2017 or 2018.
 
 ### Updated Code
 
-A sample of the code updated with this project is below.
-'''
-  
+A sample of the code updated with this project is below.  The code updates allow the program to move more efficiently through the set up of the 
+three arrays for output and the use of the arrays as the program loops through total volume, starting price and ending price for each ticker
+symbol.
+
+'''  
     '1a) Create a ticker Index
     
     tickerIndex = 0
@@ -77,8 +79,9 @@ A sample of the code updated with this project is below.
         Cells(4 + i, 2).Value = tickerVolumes(i)
         Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1       
         
-    Next i '''
-    
+    Next i 
+    '''
+   ### Results 
     
     
 
