@@ -1,6 +1,4 @@
 # Stock-Analysis with VBA
-Stock Analysis Sample 
-
 
 ## Overview of Project
 In this project, Steve is assisting his parents with analyzing returns from various green energy stocks in 2017 and 2018 to determine 
