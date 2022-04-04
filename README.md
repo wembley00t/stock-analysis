@@ -95,6 +95,7 @@ symbol.
 
 ## Summary
 
+
     Refactoring code has potential advantages and disadvantages.  Advantages of refactoring include improved code readability,
     reduced code complexity and potential improved performance.  Disadvantages of refactoring include introducing bugs or unintended
     consequences to code. Full testing of refactored code is critical.  The cost and time component of testing the refactored code
