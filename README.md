@@ -85,7 +85,8 @@ symbol.
    
    The output for 2017 and 2018 are shown below.
    
-   
+   ![VBA_Challenge_2017](https://user-images.githubusercontent.com/100876517/161454925-81b48425-99e4-4445-a644-13fbb6252e69.png)
+   ![VBA_Challenge_2018](https://user-images.githubusercontent.com/100876517/161454933-29a802b6-dbec-4600-8cb6-f560c05e856e.png)
     
     
 
