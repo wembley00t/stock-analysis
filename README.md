@@ -88,8 +88,9 @@ symbol.
    ![VBA_Challenge_2017](https://user-images.githubusercontent.com/100876517/161454925-81b48425-99e4-4445-a644-13fbb6252e69.png)
    ![VBA_Challenge_2018](https://user-images.githubusercontent.com/100876517/161454933-29a802b6-dbec-4600-8cb6-f560c05e856e.png)
     
-    The time to run the script for both 2017 and 2018 improved from the approximately .49 seconds run time in the original code to .10 to .12
-    seconds with the refactored code.
+   
+   The time to run the script for both 2017 and 2018 improved from the approximately .49 seconds run time in the original code to .10 to .12
+   seconds with the refactored code.
 
 
 
