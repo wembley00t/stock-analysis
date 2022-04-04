@@ -103,4 +103,5 @@ symbol.
     
     For this specific Stock Analysis project, there was no noted disadvantage to refactoring the code.  The refactored code improved
     performance through the use of the tickerIndex and creating the arrays for volume, starting price and ending price that used the
-    tickerIndex in the FOR loop.
+    tickerIndex in the FOR loop.  This performance improvement will be more meaningful if the file becomes larger due to additional
+    stock data being added.
